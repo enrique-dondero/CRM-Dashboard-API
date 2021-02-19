@@ -1,2 +1,2 @@
 # CRM-backend-ts
-Acrm Backend with Type Script
+CRM Backend with TypeScript
